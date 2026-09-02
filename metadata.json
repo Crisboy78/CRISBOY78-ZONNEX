@@ -1,0 +1,12 @@
+{
+  "name": "ZX 360º",
+  "description": "Plataforma Completa de Manutenção Predial 4.0, PWA Offline-First, Geolocalização GPS, Centro de Controle HUD, Gêmeo Digital, Telemetria IoT e Gestão Normativa PMOC/AVCB/NRs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
